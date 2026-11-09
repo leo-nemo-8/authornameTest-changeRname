@@ -38,3 +38,5 @@ Choose the path that matches what you want to do.
 - Check the [guides](/docs).
 - Review the [API Reference](/reference).
 - Contact [support](mailto:support@example.com).
+
+<LandingPageDemo />
