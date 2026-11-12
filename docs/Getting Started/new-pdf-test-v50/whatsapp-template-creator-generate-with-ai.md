@@ -124,3 +124,9 @@ The **All Threads** popup lists each thread with its _Thread Name_, _Created On_
     Review the terms that apply to CleverTap's AI-enabled features.
   </Card>
 </Cards>
+
+<Callout icon="far fa-circle-info" theme="info">
+  ### akfkd
+
+  fajfadifja
+</Callout>
