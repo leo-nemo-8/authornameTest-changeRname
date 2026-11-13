@@ -202,7 +202,7 @@ metadata:
 `}</HTMLBlock>
 
 <Callout icon="📘" theme="info">
-  Field configuration cascade: the session's backend configuration (default styles/placeholders/required flags) → the global featureOptions.hpf.style → the per-field fields.<type>.style. Each subsequent layer overrides the previous one on individual properties.
+  Field configuration cascade: the session's backend configuration (default styles/placeholders/required flags) → the global featureOptions.hpf.style → the per-field fields.<type>.style. Each subsequent layer overrides the previous one on individual properties
 </Callout>
 
 <br />
