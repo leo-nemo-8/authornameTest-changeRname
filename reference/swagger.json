@@ -104,7 +104,7 @@
           "pet"
         ],
         "summary": "Add a new pet to the store",
-        "description": "",
+        "description": "test test test",
         "operationId": "addPet",
         "requestBody": {
           "$ref": "#/components/requestBodies/Pet"
