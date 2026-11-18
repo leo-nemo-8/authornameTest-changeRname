@@ -1,5 +1,6 @@
 ---
 title: event-exports
+excerpt: fdsl;fj;dsjfkldsjfklds
 deprecated: false
 hidden: false
 metadata:
