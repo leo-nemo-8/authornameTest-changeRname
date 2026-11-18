@@ -1,5 +1,6 @@
 ---
 title: rcs-message-templates
+excerpt: fdsfsdfgdsgfdsfgsdf
 deprecated: false
 hidden: false
 metadata:
@@ -15,7 +16,7 @@ Here are the key components that make up an RCS message template.
 
 An RCS message template consists of the following key components:
 
-- **Title**: The headline of the message that appears prominently at the top of the template. It should be concise and engaging to quickly capture the recipient’s attention.
+- **Title**: The headline of the message that appears prominently at the top of the template. It should be concise and engaging to quickly capture the rfsdgsdecipient’s attention.
 - **Description**:  The main message body where the content of the RCS message is defined. This field provides detailed information to users and can include formatted text such as bold, italics, strikethrough, and emojis to enhance readability and engagement.
 - **Buttons**: Interactive elements that allow users to take action directly from the message. RCS templates support up to 10 buttons for Text messages and up to 4 buttons for Rich Card and Carousel templates, enabling businesses to drive customer engagement. The number of buttons rendered in an SMS inbox depends on the device's screen dimensions and UI limitations. Some buttons used in the template may not be visible on certain devices due to these constraints. It is recommended to test templates across different devices to ensure optimal rendering. CleverTap allows six types of buttons in RCS templates:
   - [URL Redirect](doc:rcs-message-templates#url-redirect)
@@ -362,6 +363,3 @@ Follow the steps below to create a Carousel Template on CleverTap. You can add u
 
 
      <Image src="https://files.readme.io/7a7047b7183662823d8adba00d0e6486cfd26ca3e8383a2321b4365dc326ee7a-buttons.png" align="center" caption="Buttons" border={true} />
-
-
-<br />
