@@ -19,7 +19,6 @@ navigation:
     icon: far fa-bullhorn
   - kind: discuss
     name: Discussions
-    hidden: true
     icon: far fa-comments
   - kind: custom_pages
     slug: test
